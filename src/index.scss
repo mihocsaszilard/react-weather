@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.logo {
+  height: 70px;
+  float: left;
+  margin: auto 10px;
+}
+
+.app {
+  background-image: linear-gradient(to bottom, rgba(255, 252, 90, 0.5), rgba(255, 252, 90, 0.7));
+  transition: 0.4s ease-out;
+}
+
+.cold {
+  background-image: linear-gradient(to bottom, rgba(90, 162, 255, 0.5), rgba(90, 162, 255, 0.7));
+  transition: 0.4s ease-out;
+}
+
+.rain {
+  background-image: url(./img/rainy.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.sunny {
+  background-image: url(./img/sunshine.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.clouds {
+  background-image: url(./img/clouds.png);
+  background-size: cover;
+  background-position: center;
+}
+
+main {
+  min-height: 100vh;
+}
+
+.search-box {
+  display: flex;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  padding-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+  border-radius: 0 0 15px 15px;
+  background-color: rgba(255, 255, 255, .1);
+}
+
+.search-box .search-bar {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  border-radius: 15px;
+  border: 1px solid black;
+
+  appearance: none;
+  background: none;
+  border: none;
+  outline: none;
+
+  color: rgba(0, 0, 0, 1);
+  text-shadow: rgba(255, 255, 255, .5);
+  font-size: 20px;
+}
+
+.location-box {
+  width: 75vw;
+  max-width: 700px;
+  margin: 50px auto;
+  font-size: 25px;
+}
+
+.location {
+  font-size: 50px;
+  margin: 20px auto;
+}
+
+.date {
+  font-style: italic;
+  margin-top: 40px;
+}
+
+.weather-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 200px;
+  min-height: 200px;
+  max-width: 300px;
+  font-size: 25px;
+  margin: 50px auto;
+  background-color: rgba(255, 255, 255, .5);
+  border-radius: 15px;
+  box-shadow: 2px 4px 3px rgba(0, 0, 0, .2),
+    inset 1px 2px 4px rgba(0, 0, 0, .2);
+
+  .temp {
+    font-size: 95px;
+  }
+}
+
+.details {
+  width: auto;
+  height: 32vh;
+  padding: 50px;
+  margin: 50px;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, .2);
+  line-height: 1.5;
+  font-size: 24px;
+}
+
+::placeholder {
+  color: rgba(0, 0, 0, 1)
+}
