@@ -31,5 +31,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <h3>Api:</h3>
 <p>https://openweathermap.org/api<p>
+  
+<h3>Images:</h3>
+<p>https://unsplash.com/<p>
+  <ul>
+    <li>@freakart</li>
+    <li>@instagramfotografin</li>
+    <li>@peter_oslanec</li>
+    <li>@mariodobelmann</li>
+    <li>@kevin_w_</li>
+    <li>@von_co</li>
+    <li>@zuzi_ruttkay</li>
+  </ul>
 
 
