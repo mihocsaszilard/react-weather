@@ -1,9 +1,9 @@
 <h1> Simple React Weather App </h1>
 <p></p>
 
-
+<div align="center">
 https://user-images.githubusercontent.com/62619507/129914417-e388e589-6dc0-4c7b-acc8-840ddbe4ac2c.mp4
-
+</div>
 
 <h3>This project was bootstrapped with Create React App.</h3>
 
@@ -29,7 +29,7 @@ See the section about running tests for more information.</p>
 <p>Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.</p>
 
-<h3>Api:</h3>
+<h3>API:</h3>
 <p>https://openweathermap.org/api<p>
   
 <h3>Images:</h3>
