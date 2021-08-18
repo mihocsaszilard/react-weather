@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/62619507/129914417-e388e589-6dc0-4c7b-
 
 <h3>This project was bootstrapped with Create React App.</h3>
 
-<h4>Open Project directory and type:-
+<h4>Open Project directory and type:</h4>
 
 `npm install`
 <p>This command will download all the dependacy in the project. After that just start the server using following command.</p>
