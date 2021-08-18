@@ -1,9 +1,9 @@
 <h1> Simple React Weather App </h1>
 <p></p>
 
-<p align="center">
+
 https://user-images.githubusercontent.com/62619507/129914417-e388e589-6dc0-4c7b-acc8-840ddbe4ac2c.mp4
-</p>
+
 
 <h3>This project was bootstrapped with Create React App.</h3>
 
