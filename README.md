@@ -29,4 +29,7 @@ See the section about running tests for more information.</p>
 <p>Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.</p>
 
+<h3>Api:</h3>
+<p>https://openweathermap.org/api<p>
+
 
