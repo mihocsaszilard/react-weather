@@ -12,24 +12,21 @@ https://user-images.githubusercontent.com/62619507/129914417-e388e589-6dc0-4c7b-
 <h4>Open Project directory and type:</h4>
 
 `npm install`
-<p>This command will download all the dependacy in the project. After that just start the server using following command.</p>
+<p>This command will download all the dependecies in the project.</p>
 
 <h4>In the project directory, you can run:</h4>
 
 `npm start`
 <p>Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.</p>
+Open http://localhost:3000 in your browser to see the app.</p>
 
-<p>The page will reload if you make edits.
-You will also see any lint errors in the console.</p>
+<p>The page will reload after each edit you do.</p>
 
 `npm test`
-<p>Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.</p>
+<p>Launches the test runner in the interactive watch mode.</p>
 
 `npm run build`
-<p>Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.</p>
+<p>Builds the app for production to the build folder.</p>
 
 <h3>API:</h3>
 <p>https://openweathermap.org/api<p>
